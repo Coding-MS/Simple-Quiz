@@ -1,0 +1,15 @@
+.container {
+    position: center;
+}
+
+#quiz-container {
+    text-align: center;
+    margin-top: 2em;
+}
+
+/* Buttons styles */
+
+button {
+    margin-top:0.5em; 
+    text-align: center;
+}
